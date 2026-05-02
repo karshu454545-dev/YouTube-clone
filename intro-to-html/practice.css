@@ -1,0 +1,236 @@
+.uber {
+        background-color: black;
+        color: white;
+        border: none;
+        height: 40px;
+        width: 120px;
+        cursor: pointer;
+        transition: opacity 0.15s;
+    }
+
+    .uber:hover {
+        opacity: 0.8;
+    }
+
+    .amazon {
+        background-color: rgb(255, 216, 20);
+        margin-top: 20px;
+        border: none;
+        width: 150;
+        height: 36px;
+        border-radius: 40px;
+        cursor: pointer;
+        transition: opacity 0.15;
+    }
+
+    .amazon:hover {
+        opacity: 0.8;
+    }
+
+
+    .github {
+        margin-top: 20px;
+        border: none;
+        background-color: rgb(46, 164, 79);
+        height: 38px;
+        width: 96px;
+        color: white;
+        border-radius: 5px;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        transition: box-shadow 0.15s;
+    }
+
+    .github:hover {
+        box-shadow: 2px 5px 15px grey;
+    }
+    .boot {
+        margin-top: 30px;
+        height: 43px;
+        width: 120px;
+        border: none;
+        background-color: rgb(121, 82, 179);
+        color: white;
+        font-weight: bold;
+        font-size: 14px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.15s;
+    }
+
+    .boot:hover {
+        background-color: rgb(107, 72, 160);
+    }
+
+    .boot1 {
+        margin-left: 10px;
+        height: 43px;
+        width: 120px;
+        border-radius: 5px;
+        border: solid;
+        border-color: rgb(108, 117, 125);
+        border-width: 1px;
+        color: rgb(108, 117, 125);
+        font-weight: bold;
+        font-size: 14px;
+        background-color: white;
+        cursor: pointer;
+        transition: background-color 0.15s, color 0.15s;
+    }
+
+    .boot1:hover {
+        background-color: rgb(108, 117, 125);
+        color: white;
+    }
+
+    .linkdin {
+        margin-top: 30px;
+        height: 43px;
+        width: 230px;
+        border: none;
+        background-color: rgb(37, 93, 198);
+        color: white;
+        font-weight: bold;
+        font-size: 14px;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: background-color 0.15s;
+    }
+
+    .linkdin:hover {
+        background-color: rgb(35, 76, 152);
+    }
+    .link1 {
+        margin-left: 10px;
+        height: 43px;
+        width: 90px;
+        border: solid;
+        border-width: 2px;
+        border-color: rgb(37, 93, 198);
+        background-color: white;
+        color: rgb(37, 93, 198);
+        font-weight: bold;
+        font-size: 14px;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: background-color 0.15s;
+        margin-bottom: 50px;
+    }
+
+    .link1:hover {
+        background-color: rgb(182, 204, 242);
+
+    }
+
+    .link {
+        padding-bottom: 50px;
+        color: rgb(109, 5, 109);
+        font-size: 20px;
+
+    }
+
+    .link:hover {
+        color: rgb(186, 60, 17);
+
+    }
+
+    .shoes {
+        margin-top: 35px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    .dollar {
+        font-weight: bold;
+        font-size: 22px;
+        color: rgb(6, 151, 6)
+    }
+
+    .delivery {
+        font-size: 21px;
+    }
+
+    .cart {
+        background-color: rgb(255, 216, 20);
+        border: none;
+        height: 36px;
+        width: 140px;
+        font-size: 16px;
+        border-radius: 42px;
+        margin-right: 15px;
+        transition: background-color 0.15s;
+        margin-bottom: 60px;
+    }
+
+    .cart:hover {
+        background-color: rgb(233, 197, 17);
+    }
+
+    .cart:active {
+        opacity: 0.8;
+    }
+
+
+    .buy {
+        background-color: rgb(234, 119, 19);
+        border: none;
+        height: 36px;
+        width: 140px;
+        font-size: 16px;
+        border-radius: 42px;
+        transition: background-color 0.15s;
+    }
+
+    .buy:hover {
+        background-color: rgb(214, 110, 19);
+    }
+
+    .buy:active {
+        opacity: 0.8;
+    }
+
+    .stretch {
+        border: none;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        color: white;
+        font-size: 15px;
+        background-color: green;
+        transition: padding-right 0.15s,
+            padding-left 0.15s,
+            padding-bottom 0.15s,
+            padding-top 0.20s;
+        margin-bottom: 100px;
+    }
+
+    .stretch:hover {
+        padding-right: 40px;
+        padding-left: 40px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .click {
+        border: none;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        color: white;
+        font-size: 18px;
+        background-color: green;
+        margin-bottom: 20px;
+        cursor: pointer;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .click:active {
+        box-shadow: none;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
